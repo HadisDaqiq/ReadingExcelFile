@@ -6,7 +6,6 @@ Steps to build locally:
 
 2. If you are not using maven, then you have to import the following files into your project (follow step 3). 
 
-    dom4j-1.6.1.jar
     
     poi-3.9-20121203.jar
     
