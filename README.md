@@ -7,13 +7,13 @@ Steps to build locally:
 2. If you are not using maven, then you have to import the following files into your project (follow step 3). 
 
     
-    poi-3.9-20121203.jar
+    poi-4.1.0.jar  
     
-    poi-ooxml-3.9-20121203.jar
+    poi-ooxml-4.1.0.jar 
     
-    poi-ooxml-schemas-3.9-20121203.jar
+    poi-ooxml-schemas-4.1.0.jar
     
-    xmlbeans-2.3.0.jar
+    xmlbeans-3.1.0.jar
     
     commons-collections4-4.3.jar
     
