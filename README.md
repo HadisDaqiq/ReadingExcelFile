@@ -18,6 +18,8 @@ Steps to build locally:
     commons-collections4-4.3.jar
     
     commons-compress-1.18.jar
+    
+    (All these files are under jars directory in your project)
 
 3. On eclipse create a new project with a package name "ExcelReader" and include ExcelReader.java inside it. 
  Right click on the project. Build Path -> configure Build Path -> (click the libraries tab) -> add external JARs.
